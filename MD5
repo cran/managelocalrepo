@@ -1,0 +1,11 @@
+28dfdb51f52925edf6a257218ea3e28b *DESCRIPTION
+bd198d9b08a880c4454d692aa600528f *NAMESPACE
+4333a5742d58c0d0377a6fa2b7c61756 *NEWS
+2c85f1fbdac6a34924fa26066e2ef1d6 *R/manage_local_repo.R
+7b20756690529e5631cbb59515f0fa6a *R/options.R
+ee7a654786ffa3b1ef36292c48ad41da *README.md
+2ddbdef1155edd9e3c5e847b05f54757 *man/create_terminal_dir.Rd
+07694e0b76fc5feda0eefad54dbbcfbd *man/full_repo_dir.Rd
+2c9f90a014d4289384c15a50fbd5474c *man/managelocalrepo.Rd
+cf5ca1b95400ece83f0edf06c9559f9f *man/quick_release_package.Rd
+539ae6a53b88e9321ea25050f4e07c4d *man/release_package.Rd
